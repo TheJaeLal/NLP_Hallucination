@@ -1,4 +1,4 @@
-Task 1 - BEGIN-VRM multi-class multi-label classification model
+**Task 1 - BEGIN-VRM multi-class multi-label classification model**
 
 Contains the code for the models reported in the evaluation table of the paper. The contents should be self-explanatory given the filenames and the information from the table in the paper.
 
